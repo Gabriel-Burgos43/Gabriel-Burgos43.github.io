@@ -57,7 +57,6 @@ En conclusión, jugar en clases a Left 4 Dead 2 puede explicarse como una búsqu
 <strong>Autor:</strong> Gabriel Antonio Burgos Chi
 <table border="2">
 	<td>
-		<strong>Correo electronico:</strong><a href="burgoschigabrielantonio55"> burgoschigabrielantonio55@gmail.com</a></center>
 	</td>
 </table>
 </body>
